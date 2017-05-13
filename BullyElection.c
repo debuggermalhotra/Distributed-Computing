@@ -19,4 +19,4 @@ struct priority{
     proc *pp;
 };
 
-
+typedef struct priority pri;
