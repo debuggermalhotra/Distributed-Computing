@@ -1,4 +1,5 @@
-//Bully election algorithm
+//Bully election algorithm for coordinate selection
+
 #include<stdio.h>
 #include<alloc.h>
 #include<stdlib.h>
